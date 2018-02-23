@@ -31,7 +31,7 @@
         },
         "string": {
             "NOT_STRING": "{{arg}} must be a string",
-            "MAX": "{{arg}} length cannot be more than {{max}}",
+            "MAX": "{{arg}} length cannot be more  I MADE A MODIFICATION than {{max}}",
             "MIN": "{{arg}} length cannot be less than {{min}}",
             "ONE_OF": "{{arg}} must be one of the following: {{choices}}"
           },
